@@ -1,4 +1,4 @@
-name: Greeting Script
+name: name: Run Simple Greeting Script
 on:
   workflow_dispatch:
   push:
