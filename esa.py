@@ -1,1 +1,1 @@
-print ("Die Vorlesung war super :") 
+print ("Die Vorlesung war super :) ") 
